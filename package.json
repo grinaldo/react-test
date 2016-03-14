@@ -1,0 +1,29 @@
+{
+  "name": "react-test",
+  "version": "1.0.0",
+  "description": "this is a test for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dodo",
+  "license": "none",
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grinaldo/react-test.git"
+  },
+  "keywords": [
+    "react",
+    "testing"
+  ],
+  "bugs": {
+    "url": "https://github.com/grinaldo/react-test/issues"
+  },
+  "homepage": "https://github.com/grinaldo/react-test"
+}
